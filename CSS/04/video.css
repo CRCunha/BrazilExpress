@@ -1,0 +1,70 @@
+.video {
+    margin-top: 60px;
+    margin-bottom: 180px;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.video .video-img {
+    width: 100%;
+    height: 75%;
+    background-image: url("../../IMG/04/video-card.jpg");
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: 80%;
+}
+
+.video .video-img .video-title {
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: #fff;
+    font-size: 20pt;
+    font-family: 'Staatliches', cursive;
+    font-size: 26pt;
+}
+
+.video .video-img .video-stitle {
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: #fff;
+    font-size: 10pt;
+}
+
+.video .line-video {
+    margin-top: 30px;
+    width: 100%;
+    height: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video .line-video .line {
+    width: 10%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.video .video-arch {
+    margin-top: -205px;
+    width: 52%;
+    height: 395px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video .video-arch video {
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,175 @@
+.about {
+    width: 100%;
+    height: 900px;
+    background-color: #fff;
+    color: #3f3f3f;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.about .about-top {
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+
+.about .about-top .text {
+    width: 70%;
+    height: 90%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #3f3f3f;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 12pt;
+}
+
+.line-about {
+    margin-top: -55px;
+    width: 100%;
+    height: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line-about .line {
+    width: 10%;
+    height: 100%;
+    background-color: #3f3f3f;
+}
+
+.about .about-bot {
+    margin-top: 30px;
+    width: 100%;
+    height: 645px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.about .about-bot .container {
+    width: 80%;
+    height: 90%;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+
+/* LEFT */
+
+.about .about-bot .about-bot-left {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about .about-bot .about-bot-left .container {
+    width: 100%;
+    height: 75%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.about .about-bot .about-bot-left .container .title {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    color: #3f3f3f;
+    font-family: 'Staatliches', cursive;
+    font-size: 22pt;
+}
+
+.about .about-bot .about-bot-left .container .title p {
+    margin-left: 10px;
+}
+
+.about .about-bot .about-bot-left .container .menu {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#p1 {
+    color: rgba(228, 72, 72, 0.637);
+    font-size: 14pt;
+}
+
+.about .about-bot .about-bot-left .container .menu a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: #3f3f3f;
+    margin-right: 40px;
+}
+
+.about .about-bot .about-bot-left .container .menu-line {
+    margin-top: -30px;
+    width: 66%;
+    height: 1px;
+    background-color: rgba(228, 72, 72, 0.219);
+}
+
+.about .about-bot .about-bot-left .container .text {
+    width: 80%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: 12pt;
+    text-align: justify;
+}
+
+.about .about-bot .about-bot-left .container .text p {
+    width: 100%;
+}
+
+.about .about-bot .about-bot-left .container .link {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.about .about-bot .about-bot-left .container .link a {
+    margin-left: 10px;
+    text-decoration: none;
+    color: #3f3f3f;
+}
+
+
+/* RIGHT */
+
+.about .about-bot .about-bot-right {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.about .about-bot .about-bot-right .img {
+    width: 45%;
+    height: 90%;
+    background-color: #3f3f3f;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.1);
+}
+
+#img1 {
+    background-image: url("../../IMG/03/img1.jpg");
+    background-position-y: center;
+    background-position-x: 30%;
+    background-size: cover;
+}
+
+#img2 {
+    background-image: url("../../IMG/03/img1.jpg");
+    background-position-y: center;
+    background-position-x: 70%;
+    background-size: cover;
+}
