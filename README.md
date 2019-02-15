@@ -18,3 +18,7 @@ Etapas estas que estão no priprio template, upado via Twitch.tv.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Exemplos
+
+![](https://crcunha.github.io/ETSLayout/cap.png)
