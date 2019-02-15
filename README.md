@@ -19,6 +19,5 @@ Etapas estas que estão no priprio template, upado via Twitch.tv.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Exemplos
-
-![](https://crcunha.github.io/ETSLayout/cap.png)
+## Exemplo
+<img width="200" serc="https://crcunha.github.io/ETSLayout/cap.png">
