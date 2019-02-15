@@ -5,8 +5,8 @@ Este projeto teve o intuito de criar um layout para um grupo de jogadores de "ET
 
 ## Desenvolvimento
 
-Como uma manobra de sair do habitual, decidi por gravar todas as etapas do desenvolvimento do template e posteriormente criando um timelapse desteas etapas.
-Etapas estas que estão no priprio template, upado via Twitch.tv.
+Como uma manobra de sair do habitual, decidi por gravar todas as etapas do desenvolvimento do template, posteriormente criando um timelapse destas etapas.
+O  que pode ser visualizado no próprio template, upado via Twitch.tv.
 
 * [Link do Layout](https://crcunha.github.io/ETSLayout/)
 * [Link da Twitch](https://www.twitch.tv/collections/9HJVNcBJghX4Pg)
