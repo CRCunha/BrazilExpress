@@ -17,7 +17,7 @@ O  que pode ser visualizado no próprio template ou via Twitch.tv.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://crcunha.github.io/ETSLayout/LICENSE) file for details
 
 ## Exemplo
 ![](https://crcunha.github.io/ETSLayout/cap.png)
